@@ -1,0 +1,5 @@
+E:\programowanie\dotnet\Muzyka\Muzyka\bin\Debug\Muzyka.exe
+E:\programowanie\dotnet\Muzyka\Muzyka\bin\Debug\Muzyka.pdb
+E:\programowanie\dotnet\Muzyka\Muzyka\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\programowanie\dotnet\Muzyka\Muzyka\obj\x86\Debug\Muzyka.exe
+E:\programowanie\dotnet\Muzyka\Muzyka\obj\x86\Debug\Muzyka.pdb
